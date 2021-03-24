@@ -2,6 +2,7 @@
 Epidemic.TA  System for Forecasting Covid-19 Cases
 
 Makarovskikh Tatyana Anatolyevna “Макаровских Татьяна Анатольевна”
+
 Abotaleb mostafa“Аботалеб Мостафа”
 
 Department of Electrical Engineering and Computer Science
